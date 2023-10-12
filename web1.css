@@ -1,0 +1,266 @@
+body{
+    margin: 0;
+    font-family:  SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.dvv{
+  background-color: #333;
+  text-align: center;
+  padding: 22px;
+ 
+    
+}
+
+.dvv a{
+    color:#f2f2f2;
+    padding: 14px 16px;
+    font-size: 12px;
+    text-decoration: none;
+  
+}
+.ig{
+    padding-right: 20px;
+    font-size: 17px;
+    color: #f2f2f2;
+
+}
+#igi{
+    font-size: 17px;
+    padding-right: 20px;
+    color: #f2f2f2;
+   
+    /* font-size: 19px; */
+}
+
+.img1{
+    width: 100%;
+}
+.dvvtxt{
+    position: relative;
+    font-family: arial;
+    text-align: center;
+}
+.txt{
+    position: absolute;
+    background-color: none;
+    color: #f2f2f2;
+    padding: 20px;
+    top: 0%;
+    left: 35%;
+    font-size: 50px;
+}
+.phone{
+    font-family: tahoma;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+.tit{
+    font-family: tahoma;
+    font-size: 25px;
+    text-align: center;
+    margin-top: -30px;
+    margin-bottom: 0px;
+}
+.link{
+    font-family: tahoma;
+    font-size:20px ;
+    text-decoration: none;
+    padding-right: 20px;
+    
+}
+.txt2{
+    position: absolute;
+    background-color: none;
+    color: black;
+    padding: 20px;
+    top: 0%;
+    left: 30%;
+    font-size: 50px;
+}
+
+.series{
+    font-family: tahoma;
+    font-size: 15px;
+    margin-top: -30px;
+    margin-bottom: 40px;
+    color: red;
+}
+
+.img4{
+    width: 49%;
+    display: inline-block;
+    margin-left: 4px;
+    margin-top: 4px;
+}
+.dvvtxt2{
+    position: relative;
+    font-family: arial;
+    text-align: center;
+}
+.txt4{
+    position: absolute;
+    background-color: none;
+    color: #f2f2f2;
+    padding: 20px;
+    top: 0%;
+    left: 15%;
+    font-size: 10px;
+}
+.phone2{
+    font-family: tahoma;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+.tit2{
+    font-family: tahoma;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -35px;
+    margin-bottom: 15px;
+    vertical-align: middle;
+
+}
+.link2{
+    font-family: tahoma;
+    font-size:17px ;
+    text-decoration: none;
+    padding-right: 20px;
+   
+}
+.link2:hover{
+    text-decoration: underline;
+}
+.link:hover{
+    text-decoration: underline;
+
+}
+.m2{
+    display: flex;
+    align-items: center;
+}
+.imgm2{
+    width: 15%;
+    position: relative;
+    top: 8px;
+}
+.txt4-2{
+    position: absolute;
+    background-color: none;
+    color: black;
+    padding: 20px;
+    top: 0%;
+    left: 65%;
+    font-size: 10px;
+}
+.img6{
+    width: 49%;
+    margin-top: 4px;
+}
+.txt6{
+    position: absolute;
+    background-color: none;
+    color: black;
+    padding: 20px;
+    top: 0%;
+    left: 10%;
+    font-size: 10px;
+}
+.txt4-22{
+    position: absolute;
+    background-color: none;
+    color: white;
+    padding: 20px;
+    top: 0%;
+    left: 65%;
+    font-size: 10px;
+}
+.img8{
+    width: 49%;
+    margin-top: 4px;
+   
+}
+.bttn{
+    position: relative;
+}
+.dvvbttn{
+    position: absolute;
+    bottom: 60px;
+    left: 100px;
+}
+.strmbttn{
+    border: none;
+    height: 50px;
+    width: 160px;
+    border-radius: 30px;
+    font-size: 14px;
+    font-family: Trebuchet MS (sans-serif);
+    font-weight:bold;
+    
+}
+.playbttn{
+    width: 15px;
+    position: relative;
+    top: 3px;
+    padding-left: 2px;
+
+}
+.comd{
+    color: white;
+    display: inline-block;
+    margin-left: 65px;
+}
+.foot{
+    margin-top: 40px;
+    margin-right: 110px;
+    margin-left: 110px;
+    font-size: 13.1px;
+    color: grey;
+}
+
+.foot1{
+    display: inline-block; 
+}
+
+.foot1p{
+    display: inline-block;
+    width: 150px;
+    margin-right: 55px;
+    
+}
+
+.foottt{
+    display: flex;
+}
+
+.more{
+    margin-top: 40px;    
+}
+
+.copy{
+    display: inline-block;
+}
+
+.pri{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 7px;
+    border-bottom: white;
+    border-top: white;
+    border-left: white;
+    border-right: grey;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.india{
+    display: inline-block;
+    margin-left: 278px;
+}
+
+.li{
+    list-style: none;
+    line-height: 25px;
+    
+}
